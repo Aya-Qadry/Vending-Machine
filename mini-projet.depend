@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1714859615 source:c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\main.cpp
+	<iostream>
+	"Automat.h"
+	"WideSlot.h"
+	"SmallSlot.h"
+	"Keypad.h"
+	"CoinSlot.h"
+
+1714828991 source:c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\src\dropcheck.cpp
+	"DropCheck.h"
+	<random>
+
+1714759285 c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\include\dropcheck.h
+
+1714857862 source:c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\src\keypad.cpp
+	"Keypad.h"
+	<iostream>
+
+1714765787 c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\include\keypad.h
+
+1714858246 source:c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\src\moteur.cpp
+	"Moteur.h"
+	<iostream>
+
+1714844181 c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\include\moteur.h
+
+1714859453 source:c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\src\coinslot.cpp
+	"CoinSlot.h"
+	<iostream>
+	<algorithm>
+
+1714857320 c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\include\coinslot.h
+
+1714856226 source:c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\src\automat.cpp
+	"Automat.h"
+	<vector>
+	"Slot.h"
+	<string>
+	<iostream>
+
+1714850867 c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\include\automat.h
+	"Slot.h"
+	<string>
+	"CoinSlot.h"
+	"Keypad.h"
+	"DropCheck.h"
+	<string>
+	<vector>
+
+1714849424 c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\include\slot.h
+	<string>
+	"Moteur.h"
+
+1714824819 source:c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\src\slot.cpp
+	"Slot.h"
+	<string>
+	"Moteur.h"
+
+1714849579 source:c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\src\smallslot.cpp
+	"SmallSlot.h"
+	<string>
+	<iostream>
+
+1714849520 c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\include\smallslot.h
+	<Slot.h>
+	"Moteur.h"
+	<string>
+
+1714858195 source:c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\src\wideslot.cpp
+	"WideSlot.h"
+	<iostream>
+
+1714849524 c:\users\ayaqa\onedrive\documents\fste\s2\c++\mini-projet\mini-projet\include\wideslot.h
+	"Moteur.h"
+	<string>
+	"Slot.h"
+
